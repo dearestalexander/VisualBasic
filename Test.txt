@@ -6,5 +6,8 @@ This is a test line
 This is another test line
 Add a new line to commit
 
+Maybe add this line
+Maybe add this line too
+
 
 Thank you 
